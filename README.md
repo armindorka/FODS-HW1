@@ -1,2 +1,2 @@
 # FODS-HW1
-This is my first data related homework project written at my home university.
+These are my first data related homework and lab projects written at my home university within the course Foundations of Data Science.
